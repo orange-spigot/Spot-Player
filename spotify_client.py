@@ -17,8 +17,8 @@ from discord.ext import bot
 import youtube_dl
 import asyncio
 from requests import get
-client_id = 'a86f6f33bcd94096838e367597e7130a'
-client_secret = '54a591ac5b4b4771bf9aeb11719db5f2'
+client_id = 'xxxxxx'
+client_secret = 'yyyyyyyyy'
 
 
 
