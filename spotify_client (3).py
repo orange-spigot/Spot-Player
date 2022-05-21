@@ -22,8 +22,8 @@ from youtubesearchpython import VideosSearch
 from discord.ext import tasks
 import random
 
-client_id = 'a86f6f33bcd94096838e367597e7130a'
-client_secret = '54a591ac5b4b4771bf9aeb11719db5f2'
+client_id = 'xxxx'
+client_secret = 'xxxx'
 
 
 
