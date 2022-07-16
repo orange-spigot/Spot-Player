@@ -236,7 +236,7 @@ async def sp(ctx):
         global voice_is_paused
         
         if i<noOfSongs:
-            @tasks.loop(seconds=1.0)
+            @tasks.loop(seconds=4.0)
             async def MusicLoop():
                 global i
                 if voice_is_paused == False:
